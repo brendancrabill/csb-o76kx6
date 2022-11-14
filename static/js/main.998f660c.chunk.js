@@ -1,0 +1,2 @@
+(this.webpackJsonpcaptchart=this.webpackJsonpcaptchart||[]).push([[0],{86:function(t,e,i){t.exports=i(87)},87:function(t,e,i){"use strict";i.r(e);var n=i(81),a=i.n(n),o=800,c=500,d=document.body.getBoundingClientRect().width/o;o*=d,c*=d,a()({target:"#root",width:o,height:c,yAxis:{domain:[-1,9]},grid:!0,data:[{fn:"x^2",derivative:{fn:"2 * x",updateOnMouseMove:!0}}]})}},[[86,1,2]]]);
+//# sourceMappingURL=main.998f660c.chunk.js.map
